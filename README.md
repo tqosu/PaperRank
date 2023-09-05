@@ -1,0 +1,2 @@
+# ReadMe
+The objective of this repository is to generate a ranking of papers based on their citation frequency. The conferences of interest encompass AAAI, CVPR, ECCV, ICCV, ICLR, and NeurIPS. The citation data is sourced from Semantic Scholar.
